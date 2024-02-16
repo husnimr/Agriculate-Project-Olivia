@@ -1,0 +1,1 @@
+[01-Dec-2023 10:52:45 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/agricula/public_html/admin/functionartikel.php on line 10
