@@ -82,4 +82,4 @@ Hak akses Agriculate terbagi menjadi 3 Aktor yaitu:
 
 **Write by Husni MR**
 
-Bandung, Apr 2024
+Jakarta Selatan, Apr 2024
