@@ -74,12 +74,9 @@ Hak akses Agriculate terbagi menjadi 3 Aktor yaitu:
 ![image](https://github.com/husnimr/Agriculate-Project-Olivia/assets/118866154/ce8cbf24-142e-42ce-86c1-9a9d22522c33)
 ![image](https://github.com/husnimr/Agriculate-Project-Olivia/assets/118866154/a7742d1d-e9d9-4203-8e77-7855eed76a3b)
 
-**Demo : https://agriculate.my.id**
+## Author
+- [Husni MR](https://github.com/husnimr/)
+- [LinkedIn](https://www.linkedin.com/in/husnimubarokramadhan/)
+- [Instagram](https://www.instagram.com/husnimbrrk)
+- [Agriculate Web](https://agriculate.my.id)
 
-
-- Progress: Bogor, Sept-Nov 2023
-- Champion: Surakarta, 24 November 2023
-
-**Write by Husni MR**
-
-Jakarta Selatan, Apr 2024
